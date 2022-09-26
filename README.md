@@ -6,7 +6,7 @@ This github repository includes the **Oneshot World Machine Edition** Wallpaper 
 
 If the owner of these images or the devs of Oneshot don't like this being up, let me know so I can take it down.
 
-##**Wallpaper Credits (Taken from credits.txt in OSWME):**
+##Wallpaper Credits (Taken from credits.txt in OSWME)
 ____________________________________________________
 *Marina "Sylladexter" K*
   Maize (plant.png)
