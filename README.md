@@ -6,23 +6,23 @@ This github repository includes the **Oneshot World Machine Edition** Wallpaper 
 
 If the owner of these images or the devs of Oneshot don't like this being up, let me know so I can take it down.
 
-##Wallpaper Credits (Taken from credits.txt in OSWME)
+## Wallpaper Credits (Taken from credits.txt in OSWME)
 ____________________________________________________
-*Marina "Sylladexter" K*
+### *Marina "Sylladexter" K*
   Maize (plant.png)
   Secret RAM Club (secret.png)
 
-*Missusruin*
+### *Missusruin*
   Library Stroll (library.png)
 
-*Saren Stone*
+### *Saren Stone*
   Prophets (minecart.png)
 
-*Temmie Chang*
+### *Temmie Chang*
   Cafe (cafe.png)
 
-*T. C.*
+### *T. C.*
   Outpost (lamp.png)
   Factory (factory.png)
 
-The others were made by *nightmargin* I think
+### **The others were made by NightMargin I think**
