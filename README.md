@@ -1,6 +1,6 @@
 # OSWME-Wallpaper-Collection
 
-![image](https://user-images.githubusercontent.com/114326019/192178427-4aff1d4a-2023-418c-a54f-0495bd148ca3.png)
+![image](https://user-images.githubusercontent.com/114326019/193378346-7fe08f80-6235-4160-9008-7f1cbd245309.png)
 
 This github repository includes the **Oneshot World Machine Edition** Wallpaper images that were exported from the game files.
 
